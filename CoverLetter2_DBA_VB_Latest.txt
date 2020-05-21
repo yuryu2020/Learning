@@ -3,7 +3,7 @@ Hello.
 I am interested in this job opportunity.
 I have 20+ years of experience in IT industry. 
 Last 10 years I've been working in Healthcare and Genetics industries in HIPAA-compliant environment.
-
+<<<<<<< HEAD
 ****************************************
 I have extensive experience in design, development, maintenance and production support corporate systems using 
 Visual using Studio 2003/2005/2008/2010/2012/2014, ASP, VB 6.0, ASP.Net, ADO, ADO.Net, VBScript, JavaScript, IIS, agile software development methodology and extreme programming.
