@@ -1,13 +1,21 @@
 Hello.
-****************************************
+
 I am interested in this job opportunity.
 I have 20+ years of experience in IT industry. 
 Last 10 years I've been working in Healthcare and Genetics industries in HIPAA-compliant environment.
+<<<<<<< HEAD
 ****************************************
 I have extensive experience in design, development, maintenance and production support corporate systems using 
 Visual using Studio 2003/2005/2008/2010/2012/2014, ASP, VB 6.0, ASP.Net, ADO, ADO.Net, VBScript, JavaScript, IIS, agile software development methodology and extreme programming.
 Problem analysis, troubleshooting, debugging and user support.
 ****************************************
+=======
+
+I have extensive experience in design, development, maintenance and production support corporate systems using 
+Visual using Studio 2003/2005/2008/2010/2012/2014, ASP, VB 6.0, ASP.Net, ADO, ADO.Net, VBScript, JavaScript, IIS, agile software development methodology and extreme programming.
+Problem analysis, troubleshooting, debugging and user support.
+
+>>>>>>> parent of edea984... Update CoverLetter2_DBA_VB_Latest.txt
 I have extensive experience in design, programming, ETL, database management, database conversion and migration activities with number of databases like MS SQL Server 6.5, 7.0, 2000, 2005, 2008, 2012, 2014, PostgreSQL.
 (Transact-SQL, stored procedures, triggers, DTS, SSIS), Oracle 8i, 9i, 10i  RDBMS (PL/SQL, SQL*Plus, packages, stored procedures, triggers, SQL*Loader), and MS Access 2000.
 I have extensive experience in development, test, maintenance and implementation of reports using SSRS. 
